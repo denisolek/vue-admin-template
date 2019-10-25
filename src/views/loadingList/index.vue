@@ -1,13 +1,13 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">Dashboard not implemented</div>
+    <div class="dashboard-text">Loading list not implemented</div>
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'Dashboard'
+  name: 'LoadingList'
 }
 </script>
 
